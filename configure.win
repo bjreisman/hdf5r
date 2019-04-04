@@ -6,7 +6,7 @@ echo "  checking hdf5 headers and libraries"
 allok=yes
 
 # Makevars file used for CRAN release
-HDF5_VERSION_USE="1_8_21"
+HDF5_VERSION_USE="1_10_5"
 # Get environment variable through R as workaround
 HDF5R_CPPFLAGS=""
 DEFINE_H5FREE_MEMORY="0"
